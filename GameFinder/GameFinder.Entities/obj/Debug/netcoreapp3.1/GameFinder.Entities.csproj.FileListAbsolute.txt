@@ -1,0 +1,10 @@
+C:\Users\bbubu\source\repos\HotelFinder\HotelFinder.Entities\bin\Debug\netcoreapp3.1\GameFinder.Entities.deps.json
+C:\Users\bbubu\source\repos\HotelFinder\HotelFinder.Entities\bin\Debug\netcoreapp3.1\GameFinder.Entities.dll
+C:\Users\bbubu\source\repos\HotelFinder\HotelFinder.Entities\bin\Debug\netcoreapp3.1\GameFinder.Entities.pdb
+C:\Users\bbubu\source\repos\HotelFinder\HotelFinder.Entities\obj\Debug\netcoreapp3.1\GameFinder.Entities.csproj.AssemblyReference.cache
+C:\Users\bbubu\source\repos\HotelFinder\HotelFinder.Entities\obj\Debug\netcoreapp3.1\GameFinder.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bbubu\source\repos\HotelFinder\HotelFinder.Entities\obj\Debug\netcoreapp3.1\GameFinder.Entities.AssemblyInfoInputs.cache
+C:\Users\bbubu\source\repos\HotelFinder\HotelFinder.Entities\obj\Debug\netcoreapp3.1\GameFinder.Entities.AssemblyInfo.cs
+C:\Users\bbubu\source\repos\HotelFinder\HotelFinder.Entities\obj\Debug\netcoreapp3.1\GameFinder.Entities.csproj.CoreCompileInputs.cache
+C:\Users\bbubu\source\repos\HotelFinder\HotelFinder.Entities\obj\Debug\netcoreapp3.1\GameFinder.Entities.dll
+C:\Users\bbubu\source\repos\HotelFinder\HotelFinder.Entities\obj\Debug\netcoreapp3.1\GameFinder.Entities.pdb
