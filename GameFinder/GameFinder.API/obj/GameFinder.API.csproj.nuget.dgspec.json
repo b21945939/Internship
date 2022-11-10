@@ -1,0 +1,147 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\bbubu\\source\\repos\\GameFinder\\GameFinder.API\\GameFinder.API.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\bbubu\\source\\repos\\GameFinder\\GameFinder.API\\GameFinder.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\bbubu\\source\\repos\\GameFinder\\GameFinder.API\\GameFinder.API.csproj",
+        "projectName": "GameFinder.API",
+        "projectPath": "C:\\Users\\bbubu\\source\\repos\\GameFinder\\GameFinder.API\\GameFinder.API.csproj",
+        "packagesPath": "C:\\Users\\bbubu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bbubu\\source\\repos\\GameFinder\\GameFinder.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\bbubu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\bbubu\\source\\repos\\GameFinder\\GameFinder.Razor\\GameFinder.Razor.csproj": {
+                "projectPath": "C:\\Users\\bbubu\\source\\repos\\GameFinder\\GameFinder.Razor\\GameFinder.Razor.csproj"
+              },
+              "C:\\Users\\bbubu\\source\\repos\\GameFinder\\HotelFinder.Business\\GameFinder.Business.csproj": {
+                "projectPath": "C:\\Users\\bbubu\\source\\repos\\GameFinder\\HotelFinder.Business\\GameFinder.Business.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "NSwag.AspNetCore": {
+              "target": "Package",
+              "version": "[13.16.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.411\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\bbubu\\source\\repos\\GameFinder\\GameFinder.Razor\\GameFinder.Razor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\bbubu\\source\\repos\\GameFinder\\GameFinder.Razor\\GameFinder.Razor.csproj",
+        "projectName": "GameFinder.Razor",
+        "projectPath": "C:\\Users\\bbubu\\source\\repos\\GameFinder\\GameFinder.Razor\\GameFinder.Razor.csproj",
+        "packagesPath": "C:\\Users\\bbubu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bbubu\\source\\repos\\GameFinder\\GameFinder.Razor\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\bbubu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\bbubu\\source\\repos\\GameFinder\\HotelFinder.DataAccess\\GameFinder.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\bbubu\\source\\repos\\GameFinder\\HotelFinder.DataAccess\\GameFinder.DataAccess.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.28, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.411\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
