@@ -1,0 +1,54 @@
+﻿@page
+@model GameFinder.Razor.MyFeature.Pages.Page1Model
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>GameFinder</title>
+</head>
+<body>
+    <script>
+        function searchFunc() {
+            // Declare variables
+            var input, filter, li, a, i
+            input = document.getElementById('myInput');
+            filter = input.value.toUpperCase();
+            var games = document.getElementById('gamesData');
+            li = games.innerText.split("\n\n");
+            images = document.getElementById('imagesData').innerText.split(" ");
+            videos = document.getElementById('videosData').innerText.split(" ");
+            // Loop through all list items, and hide those who don't match the search query
+            let temp = "";
+            for (i = 1; i < li.length-1; i++) {
+                a = li[i];
+                if (a.toUpperCase().indexOf(filter) > -1) {
+                    console.log(images[i-1])
+                    temp += "<div style='float: left;width: 700px'>" + li[i] + "\n\n" + "</div><div style='float: left;padding-left:20px;'>" + '<img style="width:320px;height:180px;" src="' + images[i-1] + '"> <iframe width="320" height="180" src = "https://www.youtube.com/embed/'+videos[i-1]+'" ></iframe > </div> <br><br><br><br><br><br><br>';
+                } else {
+                    temp += "";
+                }
+            }
+            console.log(temp)
+            document.getElementById("games").innerHTML = temp;
+        }
+        window.addEventListener('load', event => {
+            searchFunc();
+        });
+    </script>
+    <input type="text" placeholder="Search.." id="myInput" onkeyup="searchFunc()">
+    <h1 style="white-space:pre-line;" id="games">
+        @Model.games
+    </h1>
+    <h1 style="white-space: pre-line; font-size: 0px;" id="gamesData">
+        @Model.games
+    </h1>
+    <h1 style="white-space: pre-line; font-size: 0px;" id="imagesData">
+        @Model.images
+    </h1>
+    <h1 style="white-space: pre-line; font-size: 0px;" id="videosData">
+        @Model.videos
+    </h1>
+</body>
+</html>
