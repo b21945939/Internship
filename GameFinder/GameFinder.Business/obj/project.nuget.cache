@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "gos6+3gnDOGR3r0wAKKyXzcIpYaPwTY4pLLUGsWsHYjQic1ValkJPucRe0iBmQqpg+MNfLQMs+7pCiapZzVyVQ==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\bbubu\\source\\repos\\GameFinder\\GameFinder.Business\\GameFinder.Business.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "'C:\\Users\\bbubu\\source\\repos\\GameFinder\\HotelFinder.Entities\\GameFinder.Entities.csproj' projesi bulunamadı. Proje başvurusunun geçerli olup olmadığını ve proje dosyasının mevcut olup olmadığını denetleyin.",
+      "libraryId": "C:\\Users\\bbubu\\source\\repos\\GameFinder\\HotelFinder.Entities\\GameFinder.Entities.csproj",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "'C:\\Users\\bbubu\\source\\repos\\GameFinder\\HotelFinder.DataAccess\\GameFinder.DataAccess.csproj' projesi bulunamadı. Proje başvurusunun geçerli olup olmadığını ve proje dosyasının mevcut olup olmadığını denetleyin.",
+      "libraryId": "C:\\Users\\bbubu\\source\\repos\\GameFinder\\HotelFinder.DataAccess\\GameFinder.DataAccess.csproj",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}

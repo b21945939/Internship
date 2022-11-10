@@ -1,0 +1,17 @@
+C:\Users\bbubu\source\repos\HotelFinder\HotelFinder.Business\obj\Debug\netcoreapp3.1\GameFinder.Business.csproj.AssemblyReference.cache
+C:\Users\bbubu\source\repos\HotelFinder\HotelFinder.Business\obj\Debug\netcoreapp3.1\GameFinder.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bbubu\source\repos\HotelFinder\HotelFinder.Business\obj\Debug\netcoreapp3.1\GameFinder.Business.AssemblyInfoInputs.cache
+C:\Users\bbubu\source\repos\HotelFinder\HotelFinder.Business\obj\Debug\netcoreapp3.1\GameFinder.Business.AssemblyInfo.cs
+C:\Users\bbubu\source\repos\HotelFinder\HotelFinder.Business\obj\Debug\netcoreapp3.1\GameFinder.Business.csproj.CoreCompileInputs.cache
+C:\Users\bbubu\source\repos\HotelFinder\HotelFinder.Business\bin\Debug\netcoreapp3.1\GameFinder.Business.deps.json
+C:\Users\bbubu\source\repos\HotelFinder\HotelFinder.Business\bin\Debug\netcoreapp3.1\GameFinder.Business.dll
+C:\Users\bbubu\source\repos\HotelFinder\HotelFinder.Business\bin\Debug\netcoreapp3.1\GameFinder.Business.pdb
+C:\Users\bbubu\source\repos\HotelFinder\HotelFinder.Business\bin\Debug\netcoreapp3.1\GameFinder.DataAccess.dll
+C:\Users\bbubu\source\repos\HotelFinder\HotelFinder.Business\bin\Debug\netcoreapp3.1\GameFinder.Entities.dll
+C:\Users\bbubu\source\repos\HotelFinder\HotelFinder.Business\bin\Debug\netcoreapp3.1\GameFinder.DataAccess.pdb
+C:\Users\bbubu\source\repos\HotelFinder\HotelFinder.Business\bin\Debug\netcoreapp3.1\GameFinder.Entities.pdb
+C:\Users\bbubu\source\repos\HotelFinder\HotelFinder.Business\obj\Debug\netcoreapp3.1\GameFinder.Business.csproj.CopyComplete
+C:\Users\bbubu\source\repos\HotelFinder\HotelFinder.Business\obj\Debug\netcoreapp3.1\GameFinder.Business.dll
+C:\Users\bbubu\source\repos\HotelFinder\HotelFinder.Business\obj\Debug\netcoreapp3.1\GameFinder.Business.pdb
+C:\Users\bbubu\source\repos\HotelFinder\HotelFinder.Business\bin\Debug\netcoreapp3.1\GameFinder.APIRequest.dll
+C:\Users\bbubu\source\repos\HotelFinder\HotelFinder.Business\bin\Debug\netcoreapp3.1\GameFinder.APIRequest.pdb
