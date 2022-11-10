@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>GameFinder.API</name>
+    </assembly>
+    <members>
+        <member name="M:GameFinder.API.Controllers.GamesController.Get">
+            <summary>
+            Get All Games
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:GameFinder.API.Controllers.GamesController.Get(System.Int32)">
+            <summary>
+            Get Game By Id
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GameFinder.API.Controllers.GamesController.Post(GameFinder.Entities.Game)">
+            <summary>
+            Create a Game
+            </summary>
+            <param name="game"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GameFinder.API.Controllers.GamesController.Put(GameFinder.Entities.Game)">
+            <summary>
+            Update the Game
+            </summary>
+            <param name="game"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GameFinder.API.Controllers.GamesController.Delete(System.Int32)">
+            <summary>
+            Delete the Game
+            </summary>
+            <param name="id"></param>
+        </member>
+        <member name="M:GameFinder.API.Controllers.GamesController.PutType(System.String,System.Int32)">
+            <summary>
+            Add Type to the Game
+            </summary>
+            <param name="type"></param>
+        </member>
+        <member name="M:GameFinder.API.Controllers.GamesController.PutRType(System.String,System.Int32)">
+            <summary>
+            Remove Type From the Game
+            </summary>
+            <param name="type"></param>
+        </member>
+        <member name="M:GameFinder.API.Controllers.GamesController.PutPlatform(System.String,System.Int32)">
+            <summary>
+            Add Platform to the Game
+            </summary>
+            <param name="platform"></param>
+        </member>
+        <member name="M:GameFinder.API.Controllers.GamesController.PutRPlatform(System.String,System.Int32)">
+            <summary>
+            Remove Platform From the Game
+            </summary>
+            <param name="platform"></param>
+        </member>
+        <member name="M:GameFinder.API.Controllers.GamesController.UpdateImage(System.String,System.Int32)">
+            <summary>
+            Add Image to the Game
+            </summary>
+            <param name="image"></param>
+        </member>
+        <member name="M:GameFinder.API.Controllers.GamesController.UpdateVideo(System.String,System.Int32)">
+            <summary>
+            Add Video to the Game
+            </summary>
+            <param name="video"></param>
+        </member>
+    </members>
+</doc>
